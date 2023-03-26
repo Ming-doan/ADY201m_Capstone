@@ -1,0 +1,26 @@
+.container {
+    padding: 2rem;
+}
+
+.actions {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 2rem;
+}
+
+.left {
+    flex: 1;
+}
+
+.right {
+    flex: 1;
+}
+
+.mid {
+    height: 100%;
+}
+
+.loading {
+    height: 100vh;
+    box-sizing: border-box;
+}

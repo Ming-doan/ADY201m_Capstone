@@ -1,0 +1,47 @@
+.container {
+    background-color: #f7f7f7;
+    padding: 2rem;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.tableContainer {
+    padding: 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+    flex: 1
+}
+
+.tableStyle {
+    flex: 1;
+}
+
+.uploadButtonContainer {
+    height: 10rem;
+    padding: 2rem 0
+}
+
+.draggerUploadIcon {
+    font-size: 3rem;
+    color: #1890ff;
+}
+
+.tableMoreOption {
+    padding: 0.5rem;
+}
+
+.wranglingContainer {
+    height: 3rem;
+}
+
+.summaryContainer {
+    height: 2rem;
+    width: 100%;
+}
+
+.modelConfigContainer {
+    padding: 1.5rem 0;
+    flex: 1;
+}
