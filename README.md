@@ -5,6 +5,7 @@ This is Back-end code of ADY201m Capstone Project
 ## Technologies in use:
 - Flask
 - Flask-CORS
+- Firebase Admin
 - Pandas
 - Scikit-learn
 - TensorFlow
